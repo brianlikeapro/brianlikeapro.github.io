@@ -1,0 +1,9 @@
+body {
+background-color: red;
+color: white;
+}
+p, li
+ {
+	font-size: 25
+	color: black ;
+}
